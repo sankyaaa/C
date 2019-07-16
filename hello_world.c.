@@ -1,6 +1,8 @@
 /* - used to start comment use and to end comment use - */
 //- used for single line comment
 
+
+----------------------------------------------------------------------------
 #include <stdio.h>  //include header files in your program
 
 int main() //It is a entry point function
@@ -10,3 +12,4 @@ int main() //It is a entry point function
     return 0;// exit status(returns 0 value)
     
 }
+---------------------------------------------------------------------------
