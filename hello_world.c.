@@ -1,0 +1,12 @@
+/* - used to start comment use and to end comment use - */
+//- used for single line comment
+
+#include <stdio.h>  //include header files in your program
+
+int main() //It is a entry point function
+{
+    printf("Hello World");// print the provided data i.e. Hello World
+
+    return 0;// exit status(returns 0 value)
+    
+}
